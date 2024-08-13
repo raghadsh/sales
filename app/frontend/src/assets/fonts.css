@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "STC-R";
+    src: url("fonts/STCForward-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "STC-B";
+    src: url("fonts/STCForward-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "STC-M";
+    src: url("fonts/STCForward-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "STC-EB";
+    src: url("fonts/STCForward-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "STC-T";
+    src: url("fonts/STCForward-Thin.ttf") format("truetype");
+}
+@font-face {
+    font-family: "STC-I";
+    src: url("fonts/STCForward-Italic.ttf") format("truetype");
+}
