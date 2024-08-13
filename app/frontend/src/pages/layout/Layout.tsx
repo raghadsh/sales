@@ -36,7 +36,7 @@ const Layout = () => {
             <header className={styles.header} role={"banner"}>
                 <div className={styles.headerContainer} ref={menuRef}>
                     <Link to="/" className={styles.headerTitleContainer}>
-                        <h3 className={styles.headerTitle}>STC brain : Sales Enablement Chatbot</h3>
+                        <h3 className={styles.headerTitle}> Sales Chatbot</h3>
                     </Link>
                     <nav>
                         <ul className={`${styles.headerNavList} ${menuOpen ? styles.show : ""}`}>
@@ -72,7 +72,7 @@ const Layout = () => {
             </main>
 
             <footer className={styles.footer}>
-                <p>This chatbot provides information based on available data and does not guarantee accuracy or completeness. copyright stc 2024</p>
+                <p>This chatbot provides information based on available data and does not guarantee accuracy or completeness</p>
             </footer>
         </div>
     );
